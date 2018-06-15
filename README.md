@@ -10,6 +10,9 @@ A link to second markdown [page](/Page2.md/).
 
 An [image](https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX2286335.jpg) that is located on the web.
 
+Reference-style: 
+![alt text][/download.jpg]
+
 #### Code Block
 
 ```C
