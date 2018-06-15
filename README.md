@@ -15,10 +15,10 @@ An [image](https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX2286335.jpg) tha
 ```C
 if (grade = 'A')
   {
-      mood = 'happy'
+      mood = 'happy';
   }
  else { 
- mood = 'sad'
+ mood = 'sad';
  }
 ```
 >This is the start of my block quote
