@@ -17,7 +17,7 @@ if (grade = 'A')
   {
       mood = 'happy'
   }
- else { mood = 'sad'
+ else { mood = 'sad'}
 ```
 >This is the start of my block quote
 >This is the end of my block quote
@@ -36,4 +36,8 @@ if (grade = 'A')
 | Adam Sandler     | 2     |   2018-06-15 |
 | Bill Nye | 3      |    2018-06-15 |
 
+**bold text**
+*italicized text*
 ~~Strikethrough text~~
+---
+
