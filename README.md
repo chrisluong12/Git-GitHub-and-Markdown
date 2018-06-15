@@ -41,7 +41,7 @@ if (grade = 'A')
 *italicized text*
 
 ~~Strikethrough text~~
-
-###horizontal rule
+---
+###horizontal rule ^^
 ---
 
