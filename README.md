@@ -37,7 +37,11 @@ if (grade = 'A')
 | Bill Nye | 3      |    2018-06-15 |
 
 **bold text**
+
 *italicized text*
+
 ~~Strikethrough text~~
+
+###horizontal rule
 ---
 
