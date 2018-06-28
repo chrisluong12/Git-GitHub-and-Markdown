@@ -8,7 +8,7 @@
 
 A link to second markdown [page](/Page2.md/).
 
-An [image](https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX2286335.jpg) that is located on the web.
+An ![image](https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX2286335.jpg) that is located on the web.
 
 Picture in directory: 
 ![pic of banana][banana]
